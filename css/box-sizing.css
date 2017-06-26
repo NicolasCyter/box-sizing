@@ -1,0 +1,17 @@
+.second {
+  float: left;
+  border: 20px solid black;
+  padding: 20px;
+  margin-left: 20px;
+  width: 80%;
+  box-sizing: content-box;
+}
+
+.trois {
+float: left;
+border: 20px solid black;
+padding: 20px;
+margin: 20px;
+width: 80%;
+box-sizing: border-box;
+}
